@@ -1,0 +1,6 @@
+﻿  Algorithms2.cpp
+C:\Users\User\source\repos\ConsoleApplication1\Algorithms2\Algorithms2.cpp(214,18): warning C4566: символ, представленный универсальным именем символа "\u2191", невозможно представить в текущей кодовой странице (1251)
+C:\Users\User\source\repos\ConsoleApplication1\Algorithms2\Algorithms2.cpp(215,18): warning C4566: символ, представленный универсальным именем символа "\u2190", невозможно представить в текущей кодовой странице (1251)
+C:\Users\User\source\repos\ConsoleApplication1\Algorithms2\Algorithms2.cpp(215,18): warning C4566: символ, представленный универсальным именем символа "\u2192", невозможно представить в текущей кодовой странице (1251)
+C:\Users\User\source\repos\ConsoleApplication1\Algorithms2\Algorithms2.cpp(216,18): warning C4566: символ, представленный универсальным именем символа "\u2193", невозможно представить в текущей кодовой странице (1251)
+  Algorithms2.vcxproj -> C:\Users\User\source\repos\ConsoleApplication1\x64\Debug\Algorithms2.exe

@@ -1,0 +1,4 @@
+﻿  graph.cpp
+C:\Users\User\source\repos\ConsoleApplication1\graph\graph.cpp(123,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication1\graph\graph.cpp(172,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  graph.vcxproj -> C:\Users\User\source\repos\ConsoleApplication1\x64\Debug\graph.exe

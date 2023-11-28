@@ -1,0 +1,5 @@
+﻿  setStackQue.cpp
+C:\Users\User\source\repos\ConsoleApplication1\setStackQue\setStackQue.cpp(35,35): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\ConsoleApplication1\setStackQue\setStackQue.cpp(44,35): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\ConsoleApplication1\setStackQue\setStackQue.cpp(73,34): warning C4101: e: неиспользованная локальная переменная
+  setStackQue.vcxproj -> C:\Users\User\source\repos\ConsoleApplication1\x64\Debug\setStackQue.exe

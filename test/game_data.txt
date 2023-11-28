@@ -1,0 +1,7 @@
+Width:20
+Height:20
+Difficulty:3
+Speed:100
+HighScore:15
+ObstacleCount:5
+UseRandomObstacles:yes
